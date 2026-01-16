@@ -1,0 +1,8 @@
+{
+  "ritual_vampire": {
+    "category": "master",
+    "sounds": [
+      "ritual/vampire_ritual"
+    ]
+  }
+}
