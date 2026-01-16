@@ -1,0 +1,10 @@
+{
+  "ritual.vampire": {
+    "sounds": [
+      {
+        "name": "vampirismbalance:ritual/vampire_ritual",
+        "stream": false
+      }
+    ]
+  }
+}
